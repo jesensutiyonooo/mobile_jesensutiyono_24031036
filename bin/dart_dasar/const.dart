@@ -4,7 +4,7 @@ void main (){
   const umur = "20";
 
   array1 [0] = 5;
-  array2 [0] = 5;
+  // array2 [0] = 5;
 
   print (array1);
   print (array2);
