@@ -1,9 +1,8 @@
 void main() {
-  String name ;
-  name ="AI";
-  int umur;
-  umur = 20;
+  String name = "Jesen";
 
 print (name);
-print (umur);
+print (name);
+print (name);
+print (name);
 }

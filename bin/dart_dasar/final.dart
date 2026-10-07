@@ -1,7 +1,7 @@
 void main () {
-  var nama = "Al";
+  var nama = "Jesen";
  final umur = 20;
- nama = "Al Kautsar";
+ nama = "Jes";
 
 print (nama);
 print (umur);
